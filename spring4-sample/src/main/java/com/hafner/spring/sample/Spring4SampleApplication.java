@@ -3,6 +3,11 @@ package com.hafner.spring.sample;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+/**
+ * @author elena
+ *
+ */
 @SpringBootApplication
 public class Spring4SampleApplication {
 
